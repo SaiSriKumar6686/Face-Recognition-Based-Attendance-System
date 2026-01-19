@@ -1,0 +1,32 @@
+attendance_system/
+│
+├── config/
+│   └── settings.py
+│
+├── database/
+│   ├── attendance.db          # auto-created
+│   └── db.py
+│
+├── embeddings/
+│   ├── embeddings.npy         # generated
+│   └── labels.npy             # generated
+│
+├── recognition/
+│   ├── detector.py
+│   ├── embedder.py
+│   ├── recognizer.py
+│   └── tracker.py
+│
+├── security/
+│   ├── validation.py
+│   ├── rate_limit.py
+│   └── integrity.py
+│
+├── data/
+│   ├── reference_images/
+│   │   └── htno_pics/
+│   └── test_inputs/
+│
+├── outputs/
+│
+└── main.py

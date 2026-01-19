@@ -1,0 +1,12 @@
+{
+    "filename": "23C11A05B2.jpeg",
+    "bbox": [
+        0,
+        0,
+        200,
+        260
+    ],
+    "landmarks_5": null,
+    "identity": "23C11A05B2",
+    "note": "HTNO reference image, direct ArcFace preprocessing"
+}
