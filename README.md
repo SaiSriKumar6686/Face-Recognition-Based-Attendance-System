@@ -34,29 +34,7 @@ Similarity Metric | Cosine Similarity |
 
 ---
 
-##  Project Structure
-
-Face-Recognition-Based-Attendance-System/
-│
-├── embeddings/
-│ ├── embeddings.npy
-│ └── labels.npy
-│
-├── data_all/
-│ ├── reference_images/htno_pics/
-│ └── test_inputs/
-│
-├── outputs_extreme/
-│
-├── scripts/
-│ ├── recognize_extreme.py
-│ ├── arcface_embed.py
-│ └── retinaface_detect.py
-│
-├── requirements.txt
-└── README.md
-
-## ⚙️ Installation
+## Installation
 
 pip install -r requirements.txt
 
